@@ -1,8 +1,2 @@
-# pygame_snake_uth
-=================
-=================
-=================
-RUNS PERFECTLY.
-=================
-=================
-=================
+Works as it is used pygame
+pip install pygame
