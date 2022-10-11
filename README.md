@@ -1,2 +1,2 @@
-Works as it is used pygame
-pip install pygame
+Works as it is used pygame.
+Cmd type : pip install pygame
